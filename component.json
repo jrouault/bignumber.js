@@ -1,0 +1,25 @@
+{
+  "name": "bignumber.js",
+  "repository": "MikeMcl/bignumber.js",
+  "description": "A library for arbitrary-precision decimal and non-decimal arithmetic",
+  "version": "2.0.7",
+  "keywords": [
+    "arbitrary",
+    "precision",
+    "arithmetic",
+    "big",
+    "number",
+    "decimal",
+    "float",
+    "biginteger",
+    "bigdecimal",
+    "bignumber",
+    "bigint",
+    "bignum"
+  ],
+  "scripts": [
+    "bignumber.js"
+  ],
+  "main": "bignumber.js",
+  "license": "MIT"
+}
